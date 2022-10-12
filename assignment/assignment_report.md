@@ -1,6 +1,8 @@
 ## Sumit 
 ## 19312
 
+### worked on this assignment with RS Anudeep 19230, Sushil Vemuri 19317, Dishant Digdarshi 19108
+
 Q1
 Implemented the functions using the simpy library.
 

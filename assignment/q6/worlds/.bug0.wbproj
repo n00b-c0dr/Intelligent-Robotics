@@ -5,6 +5,6 @@ sceneTreePerspectives: 000000ff00000001000000030000001c000001a2000000fa010000000
 maximizedDockId: -1
 centralWidgetVisible: 1
 orthographicViewHeight: 1
-textFiles: 1 "../q5/controllers/bug2/bug2.py" "../q2/controllers/bug0/bug0.py"
+textFiles: 0 "../q5/controllers/bug2/bug2.py"
 consoles: Console:All:All
 renderingDevicePerspectives: e-puck:camera;1;1;0;0
